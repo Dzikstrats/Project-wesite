@@ -1,0 +1,76 @@
+.body {
+    position: relative;
+    width: 1987px;
+    height: 1329px;
+    background: #F4F1FF;
+}
+
+.logo_laundry {
+    position: absolute;
+    width: 71.27px;
+    height: 82px;
+    left: 25px;
+    top: 5px;
+}
+
+
+
+.container_login_text {
+    position: absolute;
+    width: 671px;
+    height: 194px;
+    left: 133px;
+    top: 150px;
+}
+
+.text_welcome h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 1.5%;
+/* or 51px */
+    letter-spacing: 0.01em;
+    color: #6C4AB6;
+}
+
+.text_welcome h2 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 0.9%;
+    letter-spacing: 0.01em;
+    color: #6C4AB6;
+}
+
+.text_welcome p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15PX;
+    letter-spacing: 0.01em;
+    color: #6C4AB6;
+    line-height: 300%;
+    
+}
+
+.login_text {
+  line-height: 0.1%;
+}
+
+.login_text h4 {
+  font-family: 'Plus Jakarta Sans';
+  color: #6C4AB6;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.login_text p {
+  color: #6C4AB6;
+  line-height: 0.9%;
+}
+
+
+
